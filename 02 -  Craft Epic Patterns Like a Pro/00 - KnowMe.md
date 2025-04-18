@@ -35,4 +35,4 @@ If anything’s confusing or you get stuck, no worries! **Leave a comment** on t
 Let’s make some code that sparkles! ✨
 
 **Next Step**: Start with the Examples to dive into patterns!  
-**Back to Main Guide**: Python for Noowbies
+**Back to Main Guide**: [Python for Noowbies](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-.git)
