@@ -41,7 +41,7 @@ _More exciting topics coming soon as we grow this adventure!_
 
 ## 🛠️ Ready to Code?
 
-Dive into **Gear Up for Coding Magic** to get Python ready, then jump to **Say Hello to the World!** to write your first program. Let’s make coding as fun as playing a game! 🎮
+Dive into [**Gear Up for Coding Magic**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/43a595542c69ff67b014e8be3d6f0d46ecb24f45/00%20-%20Setup-guide) to get Python ready, then jump to **Say Hello to the World!** to write your first program. Let’s make coding as fun as playing a game! 🎮
 
 **Need Help?** If anything’s unclear, leave a comment on this GitHub repo or join our awesome Discord community to chat with other learners!
 
