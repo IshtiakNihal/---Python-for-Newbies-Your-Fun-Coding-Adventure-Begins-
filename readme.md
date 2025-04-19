@@ -21,7 +21,8 @@ Here’s your roadmap to becoming a Python superstar! Each section is packed wit
 |---|---|
 |**Gear Up for Coding Magic**|How to install Python on Windows, macOS, or Linux, set up Visual Studio Code with cool extensions, and use free online coding tools. Plus, tips to make coding a blast!|
 |**Say Hello to the World!**|Make Python talk with the `print()` function, create your first program, and play with fun messages to kick off your coding journey.|
-| **Craft Epic Patterns Like a Pro**              | Discover how Python runs code line by line and use `print()` to create mind-blowing patterns, like stars or numbers, to impress everyone!                                     
+| **Craft Epic Patterns Like a Pro**              | Discover how Python runs code line by line and use `print()` to create mind-blowing patterns, like stars or numbers, to impress everyone!   
+| **Sign Your Name in Code Glory**                | Learn to add secret notes with comments and create giant block letters of your initials to sign your code like a superstar!                                                                   
 
 _More exciting topics coming soon as we grow this adventure!_
 

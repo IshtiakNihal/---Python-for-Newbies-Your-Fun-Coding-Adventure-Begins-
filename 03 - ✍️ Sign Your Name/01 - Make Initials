@@ -1,0 +1,134 @@
+# 📝 Comments & Block Letters: Code with Style!
+
+In this guide, you’ll learn how to use **comments** to add notes to your Python code and how to create giant block letters of your initials with `print()`. It’s like leaving a coded signature that screams, “I’m awesome!” 😎 Let’s dive in!
+
+## 📖 What Are Comments?
+
+Comments are like secret messages in your code that Python ignores when running the program. They’re super handy for:
+
+- Explaining what your code does.
+- Reminding yourself (or others) how your code works.
+- Hiding parts of your code temporarily without deleting them.
+
+In Python, you make a comment with the **#** (hashtag) symbol. Everything after the `#` on that line is ignored.
+
+### Example 1: A Simple Comment
+
+```python
+# This is my first comment! It’s ignored by Python.
+print("Hello, Noowbies!")
+```
+
+**Output**:
+
+```
+Hello, Noowbies!
+```
+
+The comment is skipped, and only the `print()` runs.
+
+### Example 2: Comment After Code
+
+You can put a comment at the end of a line, and Python runs everything before the `#`:
+
+```python
+print("I’m coding!")  # This comment is ignored too!
+```
+
+**Output**:
+
+```
+I’m coding!
+```
+
+The code before the `#` runs, but the comment is invisible in the output.
+
+### Example 3: Hiding Code
+
+Comments can “disable” code without deleting it:
+
+```python
+print("This will show!")
+# print("This is hidden!")  # This line won’t run
+print("This shows too!")
+```
+
+**Output**:
+
+```
+This will show!
+This shows too!
+```
+
+The commented line is skipped, like it’s on vacation! 🏖️
+
+## 🎨 Creating Block Letter Initials
+
+Block letters are big, chunky versions of letters made with `print()` statements. You “draw” each letter line by line using characters like `*`, spaces, or even letters. Let’s make the initials “A B” as an example (you’ll use your own initials in the exercises!).
+
+Here’s how “A B” could look in block letters:
+
+```
+   *      **** 
+  * *     *   *
+ *   *    *   *
+*******   **** 
+*     *   *   *
+*     *   *   *
+*     *   *   *
+```
+
+### Example 4: Coding Block Letters
+
+To create “A B” like above, use `print()` for each line:
+
+```python
+# Block letters for initials A and B
+print("   *      **** ")
+print("  * *     *   *")
+print(" *   *    *   *")
+print("*******   **** ")
+print("*     *   *   *")
+print("*     *   *   *")
+print("*     *   *   *")
+```
+
+**Output**:
+
+```
+   *      **** 
+  * *     *   *
+ *   *    *   *
+*******   **** 
+*     *   *   *
+*     *   *   *
+*     *   *   *
+```
+
+Each `print()` draws one line of the letters, with spaces to align them side by side. It’s like building a pixel art masterpiece! 🎨
+
+## 💡 Tips for Comments and Block Letters
+
+- **Clear Comments**: Write comments that explain your code in simple words, like “# This draws the top of the A”.
+- **Test Block Letters**: Run your code often to check how your letters look. Adjust spaces if they’re wonky.
+- **Plan Your Letters**: Sketch your initials on paper first to map out each line.
+- **Have Fun**: Add a silly comment, like “# I’m the king of code!” to make coding feel epic.
+
+## 🎯 What’s Next?
+
+You’re ready to leave your mark! Head to the [Exercises](https://grok.com/chat/initials_exercises.md) folder to create your own `initials.py` program with a fun fact comment and your blocky initials. Get ready to sign your code in style! ✍️
+
+**Quick Challenge**: What’s the output of this code?
+
+```python
+# Secret message
+print("Code is fun!")  # Woohoo!
+```
+
+Try it in the exercises!
+
+## ❓ Need Help?
+
+If comments or block letters are confusing, don’t worry! **Leave a comment** on this GitHub page or **join our Discord community** (link in the repo description) to ask questions and get help from other noowbies.
+
+**Back to Topic Guide**: [Sign Your Name in Code Glory](https://grok.com/README.md) | **Main Guide**: [Python for Noowbies](https://grok.com/README.md)
