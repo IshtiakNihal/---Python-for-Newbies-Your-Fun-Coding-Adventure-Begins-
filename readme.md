@@ -19,11 +19,11 @@ Here’s your roadmap to becoming a Python superstar! Each section is packed wit
 
 |**Section**|**What You’ll Learn**|
 |---|---|
-|**Gear Up for Coding Magic**|How to install Python on Windows, macOS, or Linux, set up Visual Studio Code with cool extensions, and use free online coding tools. Plus, tips to make coding a blast!|
-|**Say Hello to the World!**|Make Python talk with the `print()` function, create your first program, and play with fun messages to kick off your coding journey.|
-| **Craft Epic Patterns Like a Pro**              | Discover how Python runs code line by line and use `print()` to create mind-blowing patterns, like stars or numbers, to impress everyone!   
-| **Sign Your Name in Code Glory**                | Learn to add secret notes with comments and create giant block letters of your initials to sign your code like a superstar!      
-| **Blast a Time Capsule to Future You**          | Celebrate crushing Chapter 1 by reviewing `print()`, comments, and line-by-line coding, then launch a coded letter to your future coder self!                                    |
+|[**Gear Up for Coding Magic**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/ad6ef79779fcd527e77fe947bb4cd86c2196a6ab/00%20-%20Setup-guide)|How to install Python on Windows, macOS, or Linux, set up Visual Studio Code with cool extensions, and use free online coding tools. Plus, tips to make coding a blast!|
+|[**Say Hello to the World!**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/ad6ef79779fcd527e77fe947bb4cd86c2196a6ab/01%20-%20Say-Hello)|Make Python talk with the `print()` function, create your first program, and play with fun messages to kick off your coding journey.|
+| [**Craft Epic Patterns Like a Pro**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/ad6ef79779fcd527e77fe947bb4cd86c2196a6ab/02%20-%20%20%F0%9F%8C%9F%20Craft%20Epic%20Patterns%20Like%20a%20Pro)              | Discover how Python runs code line by line and use `print()` to create mind-blowing patterns, like stars or numbers, to impress everyone!   
+| [**Sign Your Name in Code Glory**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/ad6ef79779fcd527e77fe947bb4cd86c2196a6ab/03%20-%20%E2%9C%8D%EF%B8%8F%20Sign%20Your%20Name)                | Learn to add secret notes with comments and create giant block letters of your initials to sign your code like a superstar!      
+| [**Blast a Time Capsule to Future You**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/ad6ef79779fcd527e77fe947bb4cd86c2196a6ab/04%20-%20%F0%9F%8E%89%20Time%20Capsule%20Letter)          | Celebrate crushing Chapter 1 by reviewing `print()`, comments, and line-by-line coding, then launch a coded letter to your future coder self!                                    |
                                                            
 
 _More exciting topics coming soon as we grow this adventure!_
