@@ -1,0 +1,149 @@
+# 🕺 Data Type Dance-Off: Create Your Disco Profile!
+
+It’s time to shine in the **Data Type Disco**! 🎶 In this folder, you’ll create a `datatypes.py` program that builds a disco profile card using **variables** and all four data types: **integers**, **floats**, **strings**, and **Booleans**. Think of it as your VIP pass to the coding dance floor, showing off who you are and your party vibes! Let’s get grooving! 🪩
+
+## 📋 Instructions
+
+Follow these steps to complete the main exercise and try the extra challenges. Use VS Code, an online IDE (like Replit), or any Python environment (check Gear Up for Coding Magic for setup help).
+
+### Exercise 1: Create Your Disco Profile Card
+
+Your mission is to create a `datatypes.py` program that makes a profile card for the Data Type Disco. Use variables to store info about yourself, mixing all four data types, and print them to show your card.
+
+Here’s what to include:
+
+- A **string** for your disco nickname (e.g., “StarSpinner”).
+- An **integer** for your age or favorite number (e.g., `13`).
+- A **float** for your dance skill level (e.g., `8.7`).
+- A **Boolean** for whether you’re ready to party (e.g., `True`).
+
+Here’s how to do it:
+
+1. **Create a File**:
+    
+    - Open VS Code or your IDE.
+    - Create a new file called `datatypes.py` (you can use the sample file in this folder).
+2. **Write the Code**:
+    
+    - Start with a comment to hype your profile, like:
+        
+        ```python
+        # My VIP pass to the Data Type Disco!
+        ```
+        
+    - Create variables for each data type and print them. For example:
+        
+        ```python
+        # My VIP pass to the Data Type Disco!
+        nickname = "StarSpinner"
+        favorite_number = 13
+        dance_skill = 8.7
+        ready_to_party = True
+        
+        print("Disco Profile Card")
+        print("Nickname:", nickname)
+        print("Favorite Number:", favorite_number)
+        print("Dance Skill Level:", dance_skill)
+        print("Ready to Party?", ready_to_party)
+        ```
+        
+3. **Run the Program**:
+    
+    - In VS Code, click the “Run” triangle or right-click and select “Run Python File in Terminal”.
+        
+    - In an online IDE, hit the “Run” button.
+        
+    - In a terminal, navigate to the folder and run:
+        
+        ```bash
+        python3 datatypes.py
+        ```
+        
+4. **Check the Output**:
+    
+    - Your output should look like a profile card, for example:
+        
+        ```
+        Disco Profile Card
+        Nickname: StarSpinner
+        Favorite Number: 13
+        Dance Skill Level: 8.7
+        Ready to Party? True
+        ```
+        
+    - If it’s messy, add empty `print()` statements for spacing or tweak the text.
+        
+
+**Sample File**: Check out `datatypes.py` in this folder for an example or use it to test.
+
+**Share the Vibe**: Save a screenshot of your profile card output and share it with friends or post it on X with #PythonForNoowbies to show off your disco style!
+
+### Exercise 2: Extra Challenges
+
+Want to crank up the disco fever? Try these fun tasks! Create a new file (e.g., `my_datatypes.py`) or edit `datatypes.py` for each one.
+
+1. **Fancy Card Design**:
+    
+    - Add a starry border to your profile card, like:
+        
+        ```
+        ************
+        Disco Profile Card
+        Nickname: StarSpinner
+        ************
+        ```
+        
+    - Use `print()` to add stars above and below.
+        
+2. **Change the Beat**:
+    
+    - Update one variable’s value and print it again, like:
+        
+        ```python
+        dance_skill = 8.7
+        print("Old Skill:", dance_skill)
+        dance_skill = 9.2
+        print("New Skill:", dance_skill)
+        ```
+        
+3. **Disco Trivia**:
+    
+    - Add a string variable with a fun fact about you, like:
+        
+        ```python
+        fun_fact = "I can dance like a robot! 🤖"
+        print("Fun Fact:", fun_fact)
+        ```
+        
+4. **Type Checker**:
+    
+    - Use `type()` to show the data type of each variable, like:
+        
+        ```python
+        print(type(nickname))  # Output: <class 'str'>
+        ```
+        
+
+## 💡 Tips for Disco Success
+
+- **Name with Flair**: Pick variable names that vibe, like `party_score` or `dj_name`.
+- **Mix Data Types**: Use all four data types to make your profile pop!
+- **Test Often**: Run your code after each change to see your card take shape.
+- **Have a Blast**: Add silly nicknames or emojis to make your card uniquely YOU!
+
+## 🎯 Did It Work?
+
+- Did your `datatypes.py` print a disco profile card? If yes, you’re the star of the dance floor! 🌟
+- If not, check your variable assignments, ensure Python is set up (see Gear Up for Coding Magic), and try again.
+
+## ❓ Need Help?
+
+If your variables or data types miss a step, don’t lose the rhythm! **Leave a comment** on this GitHub page or **join our Discord community** (link in the repo description) to get help from other noowbies and code wizards.
+
+## 🛠️ What’s Next?
+
+You’ve just rocked your first dance with data types—way to groove! 🕺 Head back to the Data Type Disco guide to review, or check the Python for Noowbies main guide for the next beat in Chapter 2.
+
+**Super Challenge**: Can you add a commented-out “Disco Tip” with a silly dance move for your future self? Try it and keep the party going! 😺
+
+**Back to Topic Guide**: Data Type Disco | **Main Guide**: Python for Noowbies
