@@ -157,7 +157,7 @@ print("I am a Python coder!")
 
 Run it and celebrate your first step! 🎈
 
-Setup-guide/01 - 🛠️ Setup Guide.md
+<<<<<<<< HEAD:00 - Setup-guide/01 - 🛠️ Setup Guide.md
 Happy Coding! 🚀
 ========
 ## ❓ Need Help?
@@ -167,3 +167,4 @@ If any part of this is confusing, don’t stress! **Leave a comment** on this Gi
 **Back to Topic Guide**: Say Hello to the World | **Main Guide**: Python for Noowbies
 
 Happy Coding! 🚀
+>>>>>>>> fd306655212345064cd9522d58e8ab4476340d58:00 - Setup-guide/readme.md

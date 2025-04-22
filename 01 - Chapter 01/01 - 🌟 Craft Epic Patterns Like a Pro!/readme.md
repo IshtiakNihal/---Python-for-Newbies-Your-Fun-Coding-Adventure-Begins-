@@ -35,4 +35,8 @@ If anything’s confusing or you get stuck, no worries! **Leave a comment** on t
 Let’s make some code that sparkles! ✨
 
 **Next Step**: Start with the Examples to dive into patterns!  
+<<<<<<< HEAD:01 - Chapter 01/01 - 🌟 Craft Epic Patterns Like a Pro!/readme.md
 **Back to Main Guide**: Python for Noowbies
+=======
+**Back to Main Guide**: [Python for Noowbies](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-.git)
+>>>>>>> fd306655212345064cd9522d58e8ab4476340d58:02 -  🌟 Craft Epic Patterns Like a Pro/readme.md

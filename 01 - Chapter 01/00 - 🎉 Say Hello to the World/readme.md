@@ -36,4 +36,8 @@ Let’s make Python say something amazing! 🎈
 
 **Next Step**: Start with the Examples to dive into the `print()` function!
 
+<<<<<<< HEAD:01 - Chapter 01/00 - 🎉 Say Hello to the World/readme.md
 **Back to Main Guide**: Python for Newbies
+=======
+**Back to Main Guide**: Python for Noowbies
+>>>>>>> fd306655212345064cd9522d58e8ab4476340d58:01 - Say-Hello/readme.md
