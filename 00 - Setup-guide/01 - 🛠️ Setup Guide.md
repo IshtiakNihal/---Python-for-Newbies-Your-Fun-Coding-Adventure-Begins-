@@ -157,10 +157,4 @@ print("I am a Python coder!")
 
 Run it and celebrate your first step! 🎈
 
-## ❓ Need Help?
-
-If any part of this is confusing, don’t stress! **Leave a comment** on this GitHub page or **join our Discord community** (link in the repo description) to ask questions and get support.
-
-**Back to Topic Guide**: Say Hello to the World | **Main Guide**: Python for Noowbies
-
 Happy Coding! 🚀
