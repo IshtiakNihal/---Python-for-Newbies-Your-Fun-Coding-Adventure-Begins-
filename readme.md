@@ -73,7 +73,7 @@ Dive into these bonus topics to level up your skills with pro tips and advanced 
 
 |**Section**|**What You’ll Learn**|
 |---|---|
-|**Supercharge Your Code with VS Code Wizardry**|Unlock pro-level VS Code tricks like hotkeys, debugging, and extensions to make your Python coding faster, smoother, and way more fun!|
+|[**Supercharge Your Code with VS Code Wizardry**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/d082f9139fb8236ea9d8d96f8c463eff1d28fabb/Extra%20Coding%20Goodies!%20%F0%9F%8E%81/00%20-%20%F0%9F%8E%AA%20Supercharge%20Your%20VS%20Code%20Wizardry!)|Unlock pro-level VS Code tricks like hotkeys, debugging, and extensions to make your Python coding faster, smoother, and way more fun!|
 <!-- |**Bug Buster Bonanza**|Learn to spot and squash errors in Python, from syntax slip-ups to type troubles, and tackle a fun error-finding challenge to become a debugging hero!|
 |**Decision Dive Dynamo**|Explore nested `if`/`else` statements to handle complex decisions, and solve a detective case to become a coding sleuth!|
 |**Nested Loop Nexus**|Master nested `for` and `while` loops to create intricate patterns, and tackle a carnival plotter challenge to print a spiral design, powering up your looping skills like a time-loop maestro!|
