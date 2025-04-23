@@ -1,0 +1,136 @@
+# 🦸‍♂️ Power-Up Challenge: Calculate Your BMI!
+
+It’s time to unleash your superhero strength in the **Power-Up Punch**! 💥 In this folder, you’ll create a `bmi.py` program that calculates your Body Mass Index (BMI) using the exponentiation operator (`**`). BMI estimates body fat based on weight (mass) in kilograms and height in meters, using the formula `bmi = mass / (height ** 2)`. Psst—BMI is an old-school metric from the 1850s, made by a mathematician, not a doctor, so take it with a grain of salt! 💡 Let’s power up and code! ⚡
+
+## 📋 Instructions
+
+Follow these steps to complete the main exercise and try the extra challenges. Use VS Code, an online IDE (like Replit), or any Python environment (check Gear Up for Coding Magic for setup help).
+
+### Exercise 1: Calculate Your BMI
+
+Your mission is to create a `bmi.py` program that calculates your BMI. Since we don’t have your personal weight and height, use sample values (e.g., 70 kg for mass, 1.75 m for height) or your own if you know them. Use the formula:
+
+```
+bmi = mass / (height ** 2)
+```
+
+Here’s how to do it:
+
+1. **Create a File**:
+    
+    - Open VS Code or your IDE.
+    - Create a new file called `bmi.py` (you can use the sample file in this folder).
+2. **Write the Code**:
+    
+    - Start with a comment to channel your superhero vibe, like:
+        
+        ```python
+        # Calculating my superhero BMI!
+        ```
+        
+    - Create variables for mass and height, apply the formula, and print the result. For example:
+        
+        ```python
+        # Calculating my superhero BMI!
+        mass = 70  # Weight in kilograms
+        height = 1.75  # Height in meters
+        bmi = mass / (height ** 2)
+        print("My BMI:", bmi)
+        ```
+        
+3. **Run the Program**:
+    
+    - In VS Code, click the “Run” triangle or right-click and select “Run Python File in Terminal”.
+        
+    - In an online IDE, hit the “Run” button.
+        
+    - In a terminal, navigate to the folder and run:
+        
+        ```bash
+        python3 bmi.py
+        ```
+        
+4. **Check the Output**:
+    
+    - Your output should show your BMI, like:
+        
+        ```
+        My BMI: 22.857142857142858
+        ```
+        
+    - If it looks weird, check your formula or use parentheses to ensure `(height ** 2)` is calculated first.
+        
+
+**Sample File**: Check out `bmi.py` in this folder for an example or use it to test.
+
+**Share the Power**: Save a screenshot of your BMI output and share it with friends or post it on X with #PythonForNoowbies to show off your superhero stats!
+
+### Exercise 2: Extra Challenges
+
+Ready to crank up your powers? Try these fun tasks! Create a new file (e.g., `my_exponents.py`) or edit `bmi.py` for each one.
+
+1. **Heroic BMI Report**:
+    
+    - Add a border to your output, like:
+        
+        ```
+        ~~~ Superhero Stats ~~~
+        My BMI: 22.857142857142858
+        ~~~ Superhero Stats ~~~
+        ```
+        
+    - Use `print()` to add borders above and below.
+        
+2. **Round Your Power**:
+    
+    - Round the BMI to 2 decimal places using `round()`:
+        
+        ```python
+        bmi = round(mass / (height ** 2), 2)
+        print("My BMI:", bmi)  # Output: My BMI: 22.86
+        ```
+        
+3. **Superhero Arena**:
+    
+    - Calculate the area of a square superhero training arena:
+        
+        ```python
+        side = 10  # Meters
+        area = side ** 2
+        print("Arena Area:", area, "square meters")
+        ```
+        
+4. **Power Boost**:
+    
+    - Experiment with higher exponents, like:
+        
+        ```python
+        strength = 2
+        super_strength = strength ** 5
+        print("Super Strength:", super_strength)  # Output: Super Strength: 32
+        ```
+        
+
+## 💡 Tips for Superhero Success
+
+- **Parentheses Are Key**: Use `(height ** 2)` to ensure the exponent happens before division.
+- **Comment Your Powers**: Add comments like `# Squaring height first` to explain your math.
+- **Test with Known Values**: Try mass = 72 kg, height = 1.8 m (BMI ≈ 22.22) to check your formula.
+- **Stay Curious**: BMI is just one metric—health is way more than numbers, so have fun coding!
+
+## 🎯 Did It Work?
+
+- Did your `bmi.py` print your BMI? If yes, you’re a coding superhero! 🌟
+- If not, check your formula, ensure Python is set up (see Gear Up for Coding Magic), and try again.
+
+## ❓ Need Help?
+
+If your exponents don’t hit hard, don’t lose your spark! **Leave a comment** on this GitHub page or **join our Discord community** (link in the repo description) to get help from other noowbies and code wizards.
+
+## 🛠️ What’s Next?
+
+You’ve just powered up your math skills with exponents—way to punch through! 💪 Head back to the Power-Up Punch guide to review, or check the Python for Noowbies main guide for the next adventure in Chapter 2.
+
+**Super Challenge**: Can you add a comment with a superhero nickname for your BMI, like `# Captain Fit!`? Try it and keep the power flowing! 😺
+
+**Back to Topic Guide**: Power-Up Punch | **Main Guide**: Python for Noowbies

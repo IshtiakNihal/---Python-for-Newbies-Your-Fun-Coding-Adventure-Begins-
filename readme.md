@@ -38,34 +38,8 @@ Now that you’ve conquered the basics, it’s time to boogie with Python’s da
 |---|---|
 |**Data Type Disco**|Discover variables and data types (integers, floats, strings, Booleans) to store and play with data, and create a fun profile card to show off your coding groove!|
 |**Math Magic Mix**|Master arithmetic operators (+, -, *, /, %) to calculate like a wizard, and convert Brooklyn’s temperature from Fahrenheit to Celsius to keep your coding cool!|
-<!-- |**Power-Up-Punch**|Unleash the exponentiation operator (**) to calculate super-powered numbers, and compute your BMI to flex your math muscles like a coding superhero!|
-|**Chatty Code Craze**|Learn to chat with users using the `input()` function and `int()` for numbers, and calculate the hypotenuse of a triangle to become a geometry genius!|
-|**Money Mix Mania**|Combine variables, operators, and input to convert South American currencies (pesos, soles, reais) to USD, wrapping up Chapter 2 with a global cash party!|
+|**Power-Up-Punch**|Unleash the exponentiation operator (**) to calculate super-powered numbers, and compute your BMI to flex your math muscles like a coding superhero!|
 
-### Chapter 3: Choose Your Code Adventure! 🚗
-
-Buckle up—you’re hitting the open road of coding! Chapter 3 is all about **control flow**, where your programs learn to make decisions and take different paths based on conditions. From flipping coins to sorting wizards, you’ll add logic to your code and steer it like a pro driver!
-
-|**Section**|**What You’ll Learn**|
-|---|---|
-|**Fork Frenzy Fiesta**|Discover `if`/`else` statements to make decisions, and simulate a coin flip to choose your coding path like a road-trip adventurer!|
-|**Grade Guru Gala**|Master `if`/`else` statements to check conditions, and evaluate test grades to shine at the coding school festival!|
-|**Chem Craze Carnival**|Explore relational operators and `elif` statements to compare values, and test pH levels to mix magic at the coding chemistry lab!|
-|**Fortune Fun Fair**|Dive into the `random` module and `randint()` to add unpredictability, and create a carnival prize booth to win surprises at the coding fair!|
-|**Thrill Ride Rush**|Master logical operators (`and`, `or`, `not`) to combine conditions, and control access to a roller coaster for an epic coding thrill!|
-|**Wizardry Word Wiz**|Combine control flow, relational, and logical operators to create a potion crafting quiz, brewing magical elixirs with enchanted logic!|
-
-### Chapter 4: Loop Land Legend! 🎡
-
-Welcome to the Time Loop Carnival, where code spins like a Ferris wheel! Chapter 4 introduces **loops**, letting your programs repeat actions until conditions are met or for a fixed number of times. You’ll master `while` and `for` loops to keep the carnival games going, collecting tickets, spinning wheels, tossing rings, chanting countdowns, and calculating queue wait times in a magical, looping adventure!
-
-|**Section**|**What You’ll Learn**|
-|---|---|
-|**Ticket Tally Trek**|Discover the `while` loop to repeat code, and create a ticket-collecting game to win carnival prizes, mastering iteration like a time-loop hero!|
-|**Spin Stop Saga**|Extend `while` loops with multiple conditions, and spin a mystic wheel to earn points, mastering limited attempts like a carnival champion!|
-|**Ring Round Rally**|Master `for` loops with `range()` to repeat code a fixed number of times, and toss rings in a carnival marathon to shine as a looping star!|
-|**Chant Chain Challenge**|Use `for` loops with `range()` and string interpolation to create rhythmic countdown chants, rocking the carnival stage like a coding performer!|
-|**Queue Wait Whiz**|Combine `for` loops, `range()`, and conditionals to find maximum wait times in a carnival queue, mastering a real-life coding interview challenge to cap Chapter 4!| -->
 
 ### Bonus Content: Extra Coding Goodies! 🎁
 
