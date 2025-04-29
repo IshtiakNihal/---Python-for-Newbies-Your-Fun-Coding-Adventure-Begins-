@@ -39,6 +39,7 @@ Now that you’ve conquered the basics, it’s time to boogie with Python’s da
 |**Data Type Disco**|Discover variables and data types (integers, floats, strings, Booleans) to store and play with data, and create a fun profile card to show off your coding groove!|
 |**Math Magic Mix**|Master arithmetic operators (+, -, *, /, %) to calculate like a wizard, and convert Brooklyn’s temperature from Fahrenheit to Celsius to keep your coding cool!|
 |**Power-Up-Punch**|Unleash the exponentiation operator (**) to calculate super-powered numbers, and compute your BMI to flex your math muscles like a coding superhero!|
+| **Chatty Code Craze** | Learn to chat with users using the `input()` function and `int()` for numbers, and calculate the hypotenuse of a triangle to become a geometry genius!             |
 
 
 ### Bonus Content: Extra Coding Goodies! 🎁
