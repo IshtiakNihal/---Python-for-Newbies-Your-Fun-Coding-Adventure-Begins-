@@ -40,7 +40,7 @@ Now that you’ve conquered the basics, it’s time to boogie with Python’s da
 |**Math Magic Mix**|Master arithmetic operators (+, -, *, /, %) to calculate like a wizard, and convert Brooklyn’s temperature from Fahrenheit to Celsius to keep your coding cool!|
 |**Power-Up-Punch**|Unleash the exponentiation operator (**) to calculate super-powered numbers, and compute your BMI to flex your math muscles like a coding superhero!|
 | **Chatty Code Craze** | Learn to chat with users using the `input()` function and `int()` for numbers, and calculate the hypotenuse of a triangle to become a geometry genius!             |
-
+| **Money Mix Mania**   | Combine variables, operators, and input to convert South American currencies (pesos, soles, reais) to USD, wrapping up Chapter 2 with a global cash party!         |
 
 ### Bonus Content: Extra Coding Goodies! 🎁
 
