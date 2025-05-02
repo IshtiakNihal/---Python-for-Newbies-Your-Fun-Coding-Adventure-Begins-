@@ -42,6 +42,14 @@ Now that you’ve conquered the basics, it’s time to boogie with Python’s da
 | **Chatty Code Craze** | Learn to chat with users using the `input()` function and `int()` for numbers, and calculate the hypotenuse of a triangle to become a geometry genius!             |
 | **Money Mix Mania**   | Combine variables, operators, and input to convert South American currencies (pesos, soles, reais) to USD, wrapping up Chapter 2 with a global cash party!         |
 
+### Chapter 3: Choose Your Code Adventure! 🚗
+
+Buckle up—you’re hitting the open road of coding! Chapter 3 is all about **control flow**, where your programs learn to make decisions and take different paths based on conditions. From flipping coins to sorting wizards, you’ll add logic to your code and steer it like a pro driver!
+
+|**Section**|**What You’ll Learn**|
+|---|---|
+| **Fork Frenzy Fiesta**  | Discover `if`/`else` statements to make decisions, and simulate a coin flip to choose your coding path like a road-trip adventurer!           |
+
 ### Bonus Content: Extra Coding Goodies! 🎁
 
 Dive into these bonus topics to level up your skills with pro tips and advanced tricks. These are like the cherry on top of your Python sundae—perfect for noowbies ready to shine!
