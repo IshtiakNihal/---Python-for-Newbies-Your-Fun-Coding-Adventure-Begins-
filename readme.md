@@ -49,6 +49,8 @@ Buckle up—you’re hitting the open road of coding! Chapter 3 is all about **c
 |**Section**|**What You’ll Learn**|
 |---|---|
 | **Fork Frenzy Fiesta**  | Discover `if`/`else` statements to make decisions, and simulate a coin flip to choose your coding path like a road-trip adventurer!           |
+| **Grade Guru Gala**     | Master `if`/`else` statements to check conditions, and evaluate test grades to shine at the coding school festival!                           |
+
 
 ### Bonus Content: Extra Coding Goodies! 🎁
 
