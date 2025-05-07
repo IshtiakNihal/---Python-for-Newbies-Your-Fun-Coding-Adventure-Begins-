@@ -36,21 +36,20 @@ Now that you’ve conquered the basics, it’s time to boogie with Python’s da
 
 |**Section**|**What You’ll Learn**|
 |---|---|
-|**Data Type Disco**|Discover variables and data types (integers, floats, strings, Booleans) to store and play with data, and create a fun profile card to show off your coding groove!|
-|**Math Magic Mix**|Master arithmetic operators (+, -, *, /, %) to calculate like a wizard, and convert Brooklyn’s temperature from Fahrenheit to Celsius to keep your coding cool!|
-|**Power-Up-Punch**|Unleash the exponentiation operator (**) to calculate super-powered numbers, and compute your BMI to flex your math muscles like a coding superhero!|
-| **Chatty Code Craze** | Learn to chat with users using the `input()` function and `int()` for numbers, and calculate the hypotenuse of a triangle to become a geometry genius!             |
-| **Money Mix Mania**   | Combine variables, operators, and input to convert South American currencies (pesos, soles, reais) to USD, wrapping up Chapter 2 with a global cash party!         |
+|[**Data Type Disco**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/2bbf76cebd429dc7a01b41de016ab74f64ea4605/02%20-%20Chapter%2002/00%20-%20%F0%9F%92%83%20Data%20Type%20Disco)|Discover variables and data types (integers, floats, strings, Booleans) to store and play with data, and create a fun profile card to show off your coding groove!|
+|[**Math Magic Mix**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/2bbf76cebd429dc7a01b41de016ab74f64ea4605/02%20-%20Chapter%2002/01%20-%20%F0%9F%A7%AE%20Math%20Magic%20Mix)|Master arithmetic operators (+, -, *, /, %) to calculate like a wizard, and convert Brooklyn’s temperature from Fahrenheit to Celsius to keep your coding cool!|
+|[**Power-Up-Punch**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/2bbf76cebd429dc7a01b41de016ab74f64ea4605/02%20-%20Chapter%2002/02%20-%20Power-Up-Punch)|Unleash the exponentiation operator (**) to calculate super-powered numbers, and compute your BMI to flex your math muscles like a coding superhero!|
+| [**Chatty Code Craze**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/2bbf76cebd429dc7a01b41de016ab74f64ea4605/02%20-%20Chapter%2002/03%20-%20%F0%9F%8E%A4%20Chatty%20Code%20Craze) | Learn to chat with users using the `input()` function and `int()` for numbers, and calculate the hypotenuse of a triangle to become a geometry genius!             |
+| [**Money Mix Mania**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/2bbf76cebd429dc7a01b41de016ab74f64ea4605/02%20-%20Chapter%2002/04%20-%20%F0%9F%92%B0%20Money%20Mix%20Mania)   | Combine variables, operators, and input to convert South American currencies (pesos, soles, reais) to USD, wrapping up Chapter 2 with a global cash party!         |
 
 ### Chapter 3: Choose Your Code Adventure! 🚗
 
 Buckle up—you’re hitting the open road of coding! Chapter 3 is all about **control flow**, where your programs learn to make decisions and take different paths based on conditions. From flipping coins to sorting wizards, you’ll add logic to your code and steer it like a pro driver!
 
 |**Section**|**What You’ll Learn**|
-|---|---|
-| **Fork Frenzy Fiesta**  | Discover `if`/`else` statements to make decisions, and simulate a coin flip to choose your coding path like a road-trip adventurer!           |
-| **Grade Guru Gala**     | Master `if`/`else` statements to check conditions, and evaluate test grades to shine at the coding school festival!                           |
-
+|---|---| 
+| [**Fork Frenzy Fiesta**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/2bbf76cebd429dc7a01b41de016ab74f64ea4605/03%20-%20Chapter%2003/00%20-%20%F0%9F%9A%97%20Fork%20Frenzy%20Fiesta)  | Discover `if`/`else` statements to make decisions, and simulate a coin flip to choose your coding path like a road-trip adventurer!           |
+| **Grade Guru Gala**     | Master `if`/`else` statements to check conditions, and evaluate test grades to shine at the coding school festival!     
 
 ### Bonus Content: Extra Coding Goodies! 🎁
 
