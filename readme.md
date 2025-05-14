@@ -51,7 +51,8 @@ Buckle up—you’re hitting the open road of coding! Chapter 3 is all about **c
 | [**Fork Frenzy Fiesta**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/2bbf76cebd429dc7a01b41de016ab74f64ea4605/03%20-%20Chapter%2003/00%20-%20%F0%9F%9A%97%20Fork%20Frenzy%20Fiesta)  | Discover `if`/`else` statements to make decisions, and simulate a coin flip to choose your coding path like a road-trip adventurer!           |
 | [**Grade Guru Gala**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/590588178da01434e26a6ec19cefc090be8f25a6/03%20-%20Chapter%2003/01%20-%20%F0%9F%8E%93%20Grade%20Guru%20Gala)     | Master `if`/`else` statements to check conditions, and evaluate test grades to shine at the coding school festival!   
 | [**Chem Craze Carnival**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/69d945de7a0038c1281ddb07b5713bc2fb78bc4f/03%20-%20Chapter%2003/02%20-%20%F0%9F%A7%AA%20Chem%20Craze%20Carnival) | Explore relational operators and `elif` statements to compare values, and test pH levels to mix magic at the coding chemistry lab!            |
-
+| **Fortune Fun Fair**    | Dive into the `random` module and `randint()` to add unpredictability, and create a carnival prize booth to win surprises at the coding fair! |
+| **Thrill Ride Rush**    | Master logical operators (`and`, `or`, `not`) to combine conditions, and control access to a roller coaster for an epic coding thrill!        |
 
 ### Bonus Content: Extra Coding Goodies! 🎁
 
