@@ -53,6 +53,7 @@ Buckle up—you’re hitting the open road of coding! Chapter 3 is all about **c
 | [**Chem Craze Carnival**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/69d945de7a0038c1281ddb07b5713bc2fb78bc4f/03%20-%20Chapter%2003/02%20-%20%F0%9F%A7%AA%20Chem%20Craze%20Carnival) | Explore relational operators and `elif` statements to compare values, and test pH levels to mix magic at the coding chemistry lab!            |
 | **Fortune Fun Fair**    | Dive into the `random` module and `randint()` to add unpredictability, and create a carnival prize booth to win surprises at the coding fair! |
 | **Thrill Ride Rush**    | Master logical operators (`and`, `or`, `not`) to combine conditions, and control access to a roller coaster for an epic coding thrill!        |
+| **Wizardry Word Wiz**   | Combine control flow, relational, and logical operators to create a potion crafting quiz, brewing magical elixirs with enchanted logic!       |
 
 ### Bonus Content: Extra Coding Goodies! 🎁
 
