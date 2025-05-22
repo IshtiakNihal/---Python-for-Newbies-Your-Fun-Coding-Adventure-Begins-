@@ -57,7 +57,7 @@ Buckle up—you’re hitting the open road of coding! Chapter 3 is all about **c
 | **Wizardry Word Wiz**   | Combine control flow, relational, and logical operators to create a potion crafting quiz, brewing magical elixirs with enchanted logic!       |
 | [**Fortune Fun Fair**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/309616214a0652ad911f71ba4c3f8298a8541660/03%20-%20Chapter%2003/03%20-%20%F0%9F%8E%B1%20Fortune%20Fun%20Fair)    | Dive into the `random` module and `randint()` to add unpredictability, and create a carnival prize booth to win surprises at the coding fair! |
 | [**Thrill Ride Rush**](https://github.com/IshtiakNihal/---Python-for-Newbies-Your-Fun-Coding-Adventure-Begins-/tree/309616214a0652ad911f71ba4c3f8298a8541660/03%20-%20Chapter%2003/04%20-%20%F0%9F%8E%A2%20Thrill%20Ride%20Rush)    | Master logical operators (`and`, `or`, `not`) to combine conditions, and control access to a roller coaster for an epic coding thrill!        |
->>>>>>> ac666159606f237a86a788a4450fa602e91238ce
+
 
 ### Bonus Content: Extra Coding Goodies! 🎁
 
